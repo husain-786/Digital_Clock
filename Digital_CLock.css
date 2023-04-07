@@ -23,7 +23,7 @@ body{
 .clock{
     color: aliceblue;
     background-color: #1c1c2a;
-    width: 430px;
+    width: 400px;
     padding: 20px 45px;
     /* box-shadow: 0 5px 25px rgba(14, 21, 37, .8); */
     border-radius: 20px;
